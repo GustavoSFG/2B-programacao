@@ -1,1 +1,14 @@
+:root{
+  --roxo-forte: #360070;
+  --roxo-escurinho: #58436B;
+  --roxo-megaforte: #240046;
+  --roxo-fraco: #9D4EDD;
+}
 
+.cabecalho{ 
+    background-color: #360070;
+}
+
+.logo{
+    width: 5%;
+}
